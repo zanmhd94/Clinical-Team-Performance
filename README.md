@@ -15,7 +15,7 @@ This repository provides the report to evaluate the performance of clinical team
   - Performance improved over time, demonstrating the team's capacity to adapt.
 
 #### **Data Analysis Approach**
-- Used datasets for "Patient Entries" and "Audit Actions," cleaned and merged for accurate calculations.
+- Used datasets for "PatEnt" and "AuAx," cleaned and merged for accurate calculations.
 - Key metrics: mean response time per team and month.
 - Addressed anomalies such as invalid timestamps, negative response times, and outliers.
 
@@ -30,8 +30,8 @@ This repository provides the report to evaluate the performance of clinical team
 Improving response times and balancing workloads will ensure efficient patient care. Adopting predictive capacity planning, real-time monitoring, and knowledge-sharing practices will position the clinical team for sustained high performance, even during periods of fluctuating demand. 
 
 Key takeaways:
-- Standardizing response efficiency across teams is crucial.
-- Redistribution of cases can minimize delays.
+- Standardising response efficiency across teams is crucial.
+- Redistribution of cases can minimise delays.
 - Predictive staffing strategies will prepare the team for high-demand periods.
 
-This summary provides actionable insights and strategies to optimize clinical team performance, ensuring timely and consistent patient responses.
+This summary provides actionable insights and strategies to optimise clinical team performance, ensuring timely and consistent patient responses.
